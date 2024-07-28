@@ -1,8 +1,7 @@
-**Dataset can be accessed through (Courtesy Kaggle): https://www.kaggle.com/datasets/adedamolaajewole/training1600000processednoemoticon
-**
+**Dataset can be accessed through (Courtesy Kaggle):** https://www.kaggle.com/datasets/adedamolaajewole/training1600000processednoemoticon
 
-**Install the following libraries before moving on:
-**
+
+**Install the following libraries before moving on:**
 
 import pandas as pd
 import numpy as np
