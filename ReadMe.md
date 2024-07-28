@@ -24,6 +24,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
+
+Dataset can be accessed through (Courtesy Kaggle): https://www.kaggle.com/datasets/adedamolaajewole/training1600000processednoemoticon
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.svm import SVC
 from sklearn.tree import DecisionTreeClassifier
